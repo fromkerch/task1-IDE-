@@ -7,8 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/fromkerch/task1-IDE-/issues/2#issue-744631086
-* https://github.com/fromkerch/task1-IDE-/issues/3#issue-744637792
+* <a href="https://github.com/fromkerch/task1-IDE-/issues/2">Некорректная валидация ключей</a>
 
 ## Описание процесса тестирования
 
