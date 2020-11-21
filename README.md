@@ -12,15 +12,15 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Инструкция по установке OpenJDK 11 (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
-* Руководство использования (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md">Инструкция по установке OpenJDK 11</a>
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md">Руководство использования</a>
 
 
 
 В качестве тестовых данных использовались данные:
-* Инструкция по установке OpenJDK11 (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md). 
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md">Инструкция по установке OpenJDK11</a>
 Ожидаемый результат: работает на нашей ОС.
-* Приложение KeyValidator (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class). 
+*  <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class">Приложение KeyValidator</a> 
 Ожидаемый результат: запускается и совместимо с Java 11. Работает согласно руководству использования
  
 
